@@ -16,3 +16,9 @@ But maybe we could use japanese or french.
 _What do you think?_
 
 -Where do I find some .md instructions?-
+
+Em francês não vai dar...
+Não sei escrever nada!
+
+-Mas vamos fazer em PT
+-Depois passamos o Google Translator
